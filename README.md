@@ -1,4 +1,4 @@
-# Hi there 👋
+# <a href="https://maciej-fota-1976.github.io/">Hi there <span aria-label="waving hand" role="img">👋</span></a>
 
 <!--
 **maciej-fota-1976/maciej-fota-1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
